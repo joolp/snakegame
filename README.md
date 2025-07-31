@@ -4,4 +4,4 @@ It's snake game.
 
 ## gameplay imagery
 
-![snake gameplay](snakegame.gif")
+![snakegame.gif"](https://github.com/joolp/snakegame/blob/main/snakegame.gif)
