@@ -67,7 +67,7 @@ int main(int argc, char **args) {
   int len = 3;
 
   int rewX = rand() % GRX;
-  int rewY = rand() % GRY;
+  int rewY = rand() % GRY + 2;
 
   int score = 0;
   char buf[32];
